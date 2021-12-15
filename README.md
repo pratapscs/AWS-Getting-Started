@@ -1,4 +1,4 @@
-# AWS-Getting-Started
+# AWS-Getting-Started.
 
 ![](AWS/1.jpg)
 ![](AWS/2.jpg)
